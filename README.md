@@ -2,7 +2,7 @@
 
 A living stylized New York City flight portfolio built while learning three.js. Fly an original red-and-gold armored hero with a full helmet, over avenues with moving traffic, past walking pedestrians, visit NYC landmarks and open 12 interactive project towers.
 
-**Play:** https://kanishk-saini-007.github.io/stark-sky/
+**Play:** https://kanishk-saini-007.github.io/Stark-Sky/
 
 ## Explore
 Manhattan's geographic island outline, Hudson and East River, Central Park and its reservoir, Times Square billboards, Empire State Building, Chrysler Building, One World Trade Center, Statue of Liberty, Flatiron, Rockefeller Plaza and Washington Square. Four rebuilt stylized bridges with support towers, trusses, cables, lanes and traffic: Brooklyn, Manhattan, Williamsburg and Queensboro.
